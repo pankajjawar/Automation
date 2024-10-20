@@ -1,0 +1,71 @@
+
+import java.util.concurrent.TimeUnit;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.Assert;
+public class Locators {
+
+	public static void main(String[] args) throws InterruptedException {
+		// TODO Auto-generated method stub
+		String name = "Pankaj";
+		System.setProperty("webdriver.chrome.driver","C:\\browserdriver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe");
+		WebDriver driver = new ChromeDriver();
+		driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
+		String pwd=GetPassword(driver);
+		driver.get("https://rahulshettyacademy.com/locatorspractice/");
+		System.out.println(driver.getTitle());
+		//id locator
+		driver.findElement(By.id("inputUsername")).sendKeys(name);
+		//name locator
+		driver.findElement(By.name("inputPassword")).sendKeys("Pankajq123");
+		//class name
+		driver.findElement(By.className("submit")).click();
+		//css locator (tagname.classname/Tagname[attribute='value'] ,Tagname[attribute='value']:nth-child(2)
+		System.out.println(driver.findElement(By.cssSelector("p.error")).getText());
+		//if tag is <a its a link
+		//link locator
+		driver.findElement(By.linkText("Forgot your password?")).click();
+		Thread.sleep(2000);
+		//xpath locator (//Tagname[@attribute='value'][index] if multiple fields with same attribute
+		driver.findElement(By.xpath("//input[@placeholder='Name']")).sendKeys(name);
+		driver.findElement(By.cssSelector("input[placeholder='Email']")).sendKeys("Pankajjawar@gmail.com");
+		//clear data in field
+		driver.findElement(By.cssSelector("input[placeholder='Email']")).clear();
+		//css with index
+		driver.findElement(By.cssSelector("input[type='text']:nth-child(3)")).sendKeys("Pankajjawar@gmail.com");
+		//using parent to child x path
+		driver.findElement(By.xpath("//form/input[3]")).sendKeys("123456");
+		//with css selector with just classname
+		driver.findElement(By.cssSelector(".reset-pwd-btn")).click();
+		System.out.println(driver.findElement(By.cssSelector("p.infoMsg")).getText());
+		driver.findElement(By.xpath("//*[@id=\"container\"]/div[1]/form/div/button[1]")).click();
+		Thread.sleep(2000);
+		driver.findElement(By.cssSelector("#inputUsername")).sendKeys("Rahul");
+		//regularexperssion in CSS
+		driver.findElement(By.cssSelector("input[type*='Pass']")).sendKeys("pwd");
+		driver.findElement(By.id("chkboxOne")).click();
+		//regularexperssion in Xpath
+		driver.findElement(By.xpath("//button[contains(@class,'submit')]")).click();
+		//driver.findElement(By.xpath("//div[@)).click();
+		Thread.sleep(2000);
+		Assert.assertEquals(driver.findElement(By.cssSelector("p")).getText(),"You are successfully logged in.");
+		driver.findElement(By.xpath("//div[@class='login-container']/button")).click();
+		//div[@class='login-container']/button[1]
+	}
+	
+	public static String GetPassword(WebDriver driver) throws InterruptedException {
+		driver.get("https://rahulshettyacademy.com/locatorspractice/");
+		driver.findElement(By.linkText("Forgot your password?")).click();
+		Thread.sleep(2000);
+		driver.findElement(By.cssSelector(".reset-pwd-btn")).click();
+		String passwordtext = driver.findElement(By.cssSelector("p.infoMsg")).getText();
+		String[] passwordtext1=passwordtext.split("'");
+		System.out.println(passwordtext1);
+		String password=passwordtext1[1].split("'")[0];
+		return password;
+		
+	}
+
+}

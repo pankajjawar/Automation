@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="7" failed="1" skipped="1">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-21T14:39:22 SGT" name="TestNGSuite" finished-at="2024-04-21T14:39:23 SGT" duration-ms="324">
+    <groups>
+      <group name="smoke">
+        <method signature="TestAnnotations4.Pay()[pri:0, instance:TestNgPractice.TestAnnotations4@2af004b]" name="Pay" class="TestNgPractice.TestAnnotations4"/>
+        <method signature="TestAnnotations4.Pay()[pri:0, instance:TestNgPractice.TestAnnotations4@7c37508a]" name="Pay" class="TestNgPractice.TestAnnotations4"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2024-04-21T14:39:22 SGT" name="Test" finished-at="2024-04-21T14:39:22 SGT" duration-ms="92">
+      <class name="TestNgPractice.TestAnnotations4">
+        <test-method signature="Pay()[pri:0, instance:TestNgPractice.TestAnnotations4@2af004b]" started-at="2024-04-21T14:39:22 SGT" name="Pay" finished-at="2024-04-21T14:39:22 SGT" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Pay -->
+      </class> <!-- TestNgPractice.TestAnnotations4 -->
+    </test> <!-- Test -->
+    <test started-at="2024-04-21T14:39:22 SGT" name="Test1" finished-at="2024-04-21T14:39:23 SGT" duration-ms="104">
+      <class name="TestNgPractice.TestAnnotation1">
+        <test-method signature="GiveInput()[pri:0, instance:TestNgPractice.TestAnnotation1@6be968ce]" started-at="2024-04-21T14:39:23 SGT" name="GiveInput" finished-at="2024-04-21T14:39:23 SGT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GiveInput -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:TestNgPractice.TestAnnotation1@6be968ce]" started-at="2024-04-21T14:39:23 SGT" name="Login" finished-at="2024-04-21T14:39:23 SGT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="AddtoCart()[pri:0, instance:TestNgPractice.TestAnnotation1@6be968ce]" started-at="2024-04-21T14:39:23 SGT" name="AddtoCart" finished-at="2024-04-21T14:39:23 SGT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddtoCart -->
+      </class> <!-- TestNgPractice.TestAnnotation1 -->
+      <class name="TestNgPractice.TestAnnotations">
+        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:TestNgPractice.TestAnnotations@24569dba]" started-at="2024-04-21T14:39:22 SGT" name="BeforeTest" finished-at="2024-04-21T14:39:23 SGT" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method signature="Login()[pri:0, instance:TestNgPractice.TestAnnotations@24569dba]" started-at="2024-04-21T14:39:23 SGT" name="Login" finished-at="2024-04-21T14:39:23 SGT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- TestNgPractice.TestAnnotations -->
+      <class name="TestNgPractice.TestAnnotations4">
+        <test-method signature="Home(java.lang.String)[pri:0, instance:TestNgPractice.TestAnnotations4@7c37508a]" started-at="2024-04-21T14:39:23 SGT" name="Home" finished-at="2024-04-21T14:39:23 SGT" duration-ms="0" status="FAIL">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[
+Cannot inject @Test annotated Method [Home] with [class java.lang.String].
+For more information on native dependency injection please refer to https://testng.org/#_dependency_injection]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: 
+Cannot inject @Test annotated Method [Home] with [class java.lang.String].
+For more information on native dependency injection please refer to https://testng.org/#_dependency_injection
+at org.testng.internal.Parameters.checkParameterTypes(Parameters.java:442)
+at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:347)
+at org.testng.internal.Parameters.createParameters(Parameters.java:699)
+at org.testng.internal.Parameters.handleParameters(Parameters.java:885)
+at org.testng.internal.Parameters.handleParameters(Parameters.java:734)
+at org.testng.internal.invokers.ParameterHandler.handleParameters(ParameterHandler.java:72)
+at org.testng.internal.invokers.ParameterHandler.createParameters(ParameterHandler.java:51)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:946)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Home -->
+        <test-method signature="Login1(java.lang.String,java.lang.String)[pri:0, instance:TestNgPractice.TestAnnotations4@7c37508a]" started-at="2024-04-21T14:39:23 SGT" name="Login1" data-provider="InputValue" finished-at="2024-04-21T14:39:23 SGT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pankaj00]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pankaj01]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login1 -->
+        <test-method signature="Login1(java.lang.String,java.lang.String)[pri:0, instance:TestNgPractice.TestAnnotations4@7c37508a]" started-at="2024-04-21T14:39:23 SGT" name="Login1" data-provider="InputValue" finished-at="2024-04-21T14:39:23 SGT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pankaj10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pankaj11]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login1 -->
+        <test-method signature="Login1(java.lang.String,java.lang.String)[pri:0, instance:TestNgPractice.TestAnnotations4@7c37508a]" started-at="2024-04-21T14:39:23 SGT" name="Login1" data-provider="InputValue" finished-at="2024-04-21T14:39:23 SGT" duration-ms="13" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pankaj20]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pankaj21]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login1 -->
+        <test-method signature="Pay()[pri:0, instance:TestNgPractice.TestAnnotations4@7c37508a]" started-at="2024-04-21T14:39:23 SGT" name="Pay" finished-at="2024-04-21T14:39:23 SGT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Pay -->
+        <test-method signature="Logout()[pri:0, instance:TestNgPractice.TestAnnotations4@7c37508a]" started-at="2024-04-21T14:39:23 SGT" name="Logout" finished-at="2024-04-21T14:39:23 SGT" depends-on-methods="TestNgPractice.TestAnnotations4.Home" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Throwable">
+            <message>
+              <![CDATA[Method TestNgPractice.TestAnnotations4.Logout() on instance TestNgPractice.TestAnnotations4@7c37508a depends on not successfully finished methods 
+[TestNgPractice.TestAnnotations4.Home() on instance TestNgPractice.TestAnnotations4@7c37508a]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Throwable: Method TestNgPractice.TestAnnotations4.Logout() on instance TestNgPractice.TestAnnotations4@7c37508a depends on not successfully finished methods 
+[TestNgPractice.TestAnnotations4.Home() on instance TestNgPractice.TestAnnotations4@7c37508a]
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:159)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Throwable -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+      </class> <!-- TestNgPractice.TestAnnotations4 -->
+    </test> <!-- Test1 -->
+  </suite> <!-- TestNGSuite -->
+</testng-results>
