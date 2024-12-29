@@ -7,7 +7,7 @@ public class DropDown2 {
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
 
-		System.setProperty("webdriver.chrome.driver","C:\\browserdriver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver","C:\\browserdriver\\Chrome\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://rahulshettyacademy.com/dropdownsPractise/");
 	    driver.findElement(By.id("divpaxinfo")).click();
@@ -19,5 +19,6 @@ public class DropDown2 {
 	    System.out.println(driver.findElement(By.id("divpaxinfo")).getText());
 	    Thread.sleep(2000);
 	    driver.findElement(By.xpath("//input[@class='buttonN']")).click();
+	    driver.close();
 }
 }
