@@ -6,8 +6,8 @@
       <class name="Application.Tests.SubmitOrderTest">
         <methods>
           <include name="closeApplication"/>
-          <include name="launchApplication"/>
           <include name="validateOrderPage"/>
+          <include name="launchApplication"/>
           <include name="submitOrder"/>
         </methods>
       </class> <!-- Application.Tests.SubmitOrderTest -->

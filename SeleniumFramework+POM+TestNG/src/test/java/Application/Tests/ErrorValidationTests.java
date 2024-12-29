@@ -1,7 +1,6 @@
 
 package Application.Tests;
 import java.io.IOException;
-
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
@@ -13,8 +12,8 @@ public class ErrorValidationTests extends BaseTest  {
  public void submitOrder() throws IOException, InterruptedException
  {
 		// TODO Auto-generated method stub
-		landingPage.loginApplication("pankajjawar2024@gmail.com","Pankajjawar024@gmail.com");
-		Assert.assertEquals("Incorrect email or password.", landingPage.getErrorMessage());
+		landingPage.loginApplication("pankajjawar2024@gmail.com","Pankajjawar224@gmail.com");
+	 	Assert.assertEquals("Incorrect email or password.", landingPage.getErrorMessage());
 	}
 
 }

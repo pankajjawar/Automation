@@ -15,7 +15,7 @@ import Application.pageobjectmodel.ProductCatalog;
 
 public class SubmitOrderTest extends BaseTest  {
 	
-	String productName = "ZARA COAT 3";
+	String productName = "ADIDAS ORIGINAL";
 
  @Test
  public void submitOrder() throws IOException, InterruptedException
@@ -27,7 +27,6 @@ public class SubmitOrderTest extends BaseTest  {
 		List<WebElement> products = productcatalog.getProductlist();
 		productcatalog.addProductToCart(productName);
 		CartPage cartpage =productcatalog.goToCartPage();//Inheritance childclass has access to parent class methods
-		
 		Boolean match = cartpage.verifyProductDisplay(productName);
 	    Assert.assertTrue(match);
 	    CheckoutPage checkoutpage = cartpage.checkOut();

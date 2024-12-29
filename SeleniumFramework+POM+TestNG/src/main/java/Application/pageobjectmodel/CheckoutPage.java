@@ -32,13 +32,12 @@ public class CheckoutPage extends AbstractComponents {
 		WebElement selectCountry;
 		
 		////button[contains(@class,'ta-item')])[2]"
-
-	By tasresults = By.cssSelector(".ta-results");
+	     By tasresults = By.cssSelector(".ta-results");
 		
 		//Action
-		public void selectCountry(String CountryName) {
+		public void selectCountry(String countryName) {
 			Actions a = new Actions(driver);
-			a.sendKeys(Country, "india").build().perform();
+			a.sendKeys(Country, countryName).build().perform();
 			waitForElementtoappear(tasresults);
 			selectCountry.click();
 		}

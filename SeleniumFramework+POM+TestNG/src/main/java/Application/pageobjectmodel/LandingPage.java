@@ -4,7 +4,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-
 import Application.AbstractComponent.AbstractComponents;
 
 public class LandingPage extends AbstractComponents {
@@ -35,7 +34,7 @@ public class LandingPage extends AbstractComponents {
 	WebElement submit;
 	
 	
-	@FindBy(css="[class*='flyInOut']")
+    @FindBy(xpath="//div[@aria-label='Incorrect email or password.']")
 	WebElement errorMessage;
 	//Actions
 	public ProductCatalog loginApplication(String email,String password) {
