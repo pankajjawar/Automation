@@ -70,6 +70,23 @@ public class Payloads {
 				+ "\r\n"
 				+ "}";		
 	}
+	
+	public static String addBook(String isbn, String asile) {
+		String addBook =  "{\r\n"
+				+ "\"name\":\"Learn Appium Automation with Java\",\r\n"
+				+ "\"isbn\":\""+isbn+"\",\r\n"
+				+ "\"aisle\":\""+asile+"\",\r\n"
+				+ "\"author\":\"John foer\"\r\n"
+				+ "}";
+		
+		return addBook;
+	}
+	public static String deleteBook(String isbn, String asile) {
+		String deleteBook =  "{\r\n"
+				+ "    \"ID\": \""+isbn+""+asile+"\"\r\n"
+				+ "}";
+		return deleteBook;
+	}
 				
 	}
 	
