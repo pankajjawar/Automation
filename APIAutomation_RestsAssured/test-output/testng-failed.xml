@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="APItests.JiraAPI">
+      <class name="POGOClasses.GetCoursesTest">
         <methods>
-          <include name="BugTest"/>
+          <include name="GetCoursesDetailsTests"/>
         </methods>
-      </class> <!-- APItests.JiraAPI -->
+      </class> <!-- POGOClasses.GetCoursesTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
