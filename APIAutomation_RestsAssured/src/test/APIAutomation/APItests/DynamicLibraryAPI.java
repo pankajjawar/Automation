@@ -1,6 +1,5 @@
 package APItests;
 
-import org.testng.annotations.AfterTest;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 

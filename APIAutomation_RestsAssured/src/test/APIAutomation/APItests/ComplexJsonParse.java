@@ -1,7 +1,5 @@
 package APItests;
 
-import org.testng.Assert;
-
 import Payload.Payloads;
 import io.restassured.path.json.JsonPath;
 
