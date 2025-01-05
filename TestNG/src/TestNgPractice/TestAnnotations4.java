@@ -3,9 +3,6 @@ package TestNgPractice;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-import com.beust.jcommander.Parameter;
-import com.beust.jcommander.Parameters;
-
 public class TestAnnotations4 {
 
 

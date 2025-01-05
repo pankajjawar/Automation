@@ -3375,3 +3375,244 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.po
 2025-01-02 20:59:02,018 [Worker-45: Launching Basics] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2025-01-02 20:59:02,019 [Worker-45: Launching Basics] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
 2025-01-02 20:59:02,020 [Worker-45: Launching Basics] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-02 20:59:02,020 [Worker-45: Launching Basics] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-02 22:15:31,187 [Worker-59: Launching Basics] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-02 22:15:31,189 [Worker-59: Launching Basics] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-02 22:15:31,191 [Worker-59: Launching Basics] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-02 22:15:31,191 [Worker-59: Launching Basics] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-04 14:46:05,778 [Worker-64: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-01-04 14:46:06,600 [Worker-64: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Application:APIAutomation_RestsAssured:0.0.1-SNAPSHOT @ C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\pom.xml.
+2025-01-04 14:46:07,468 [Worker-64: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /APIAutomation_RestsAssured/src/main/java
+2025-01-04 14:46:07,469 [Worker-64: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /APIAutomation_RestsAssured/src/test/java
+2025-01-04 14:46:07,676 [Worker-64: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2025-01-04 14:49:12,631 [Worker-76: Launching Basics] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 14:49:12,632 [Worker-76: Launching Basics] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-04 14:49:12,633 [Worker-76: Launching Basics] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 14:49:12,634 [Worker-76: Launching Basics] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-04 15:01:24,842 [Worker-80: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 15:01:24,843 [Worker-80: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-04 15:01:24,844 [Worker-80: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 15:01:24,845 [Worker-80: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-04 15:11:52,710 [Worker-85: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-01-04 15:11:52,753 [Worker-85: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Application:APIAutomation_RestsAssured:0.0.1-SNAPSHOT @ C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\pom.xml.
+2025-01-04 15:11:52,865 [Worker-85: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /APIAutomation_RestsAssured/src/main/java
+2025-01-04 15:11:52,865 [Worker-85: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /APIAutomation_RestsAssured/src/test/java
+2025-01-04 15:11:53,076 [Worker-85: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2025-01-04 15:18:12,800 [Worker-90: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-01-04 15:18:12,845 [Worker-90: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Application:APIAutomation_RestsAssured:0.0.1-SNAPSHOT @ C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\pom.xml.
+2025-01-04 15:18:12,946 [Worker-90: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /APIAutomation_RestsAssured/src/main/java
+2025-01-04 15:18:12,947 [Worker-90: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /APIAutomation_RestsAssured/src/test/java
+2025-01-04 15:18:13,127 [Worker-90: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2025-01-04 15:20:26,515 [Worker-88: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 15:20:26,516 [Worker-88: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-04 15:20:26,517 [Worker-88: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 15:20:26,517 [Worker-88: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-04 15:22:04,232 [Worker-88: Launching Basics] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 15:22:04,233 [Worker-88: Launching Basics] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-04 15:22:04,234 [Worker-88: Launching Basics] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 15:22:04,235 [Worker-88: Launching Basics] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-04 15:59:02,463 [Worker-89: Launching Basics (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 15:59:02,464 [Worker-89: Launching Basics (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-04 15:59:02,466 [Worker-89: Launching Basics (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 15:59:02,466 [Worker-89: Launching Basics (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-04 16:04:47,829 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-01-04 16:07:54,324 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-01-04 16:07:57,623 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Application:APIAutomation_RestsAssured:0.0.1-SNAPSHOT @ C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\pom.xml.
+2025-01-04 16:07:59,418 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /APIAutomation_RestsAssured/src/main/java
+2025-01-04 16:07:59,419 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /APIAutomation_RestsAssured/src/test/java
+2025-01-04 16:07:59,631 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2025-01-04 16:12:40,157 [Worker-28: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 16:12:40,158 [Worker-28: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-04 16:12:40,162 [Worker-28: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 16:12:40,162 [Worker-28: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-04 16:12:43,470 [Worker-28: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-04 16:12:43,472 [Worker-28: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\Demo\src\main\resources
+2025-01-04 16:12:43,475 [Worker-28: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-04 16:12:43,476 [Worker-28: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\Demo\src\test\resources
+2025-01-04 16:12:47,315 [Worker-28: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 16:12:47,321 [Worker-28: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2025-01-04 16:12:47,343 [Worker-28: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 16:12:47,344 [Worker-28: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\PageObjectModel\src\test\resources
+2025-01-04 16:12:50,448 [Worker-28: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 16:12:50,449 [Worker-28: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\SeleniumFramework+POM+TestNG\src\main\resources
+2025-01-04 16:12:50,450 [Worker-28: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 16:12:50,450 [Worker-28: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\SeleniumFramework+POM+TestNG\src\test\resources
+2025-01-04 16:12:53,604 [Worker-28: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-04 16:12:53,605 [Worker-28: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\TestNG\src\main\resources
+2025-01-04 16:12:53,606 [Worker-28: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-04 16:12:53,607 [Worker-28: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\TestNG\src\test\resources
+2025-01-04 16:17:56,179 [Worker-28: Launching ComplexJsonParse] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 16:17:56,180 [Worker-28: Launching ComplexJsonParse] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-04 16:17:56,183 [Worker-28: Launching ComplexJsonParse] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 16:17:56,183 [Worker-28: Launching ComplexJsonParse] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-04 16:18:46,048 [Worker-30: Launching ComplexJsonParse] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 16:18:46,049 [Worker-30: Launching ComplexJsonParse] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-04 16:18:46,051 [Worker-30: Launching ComplexJsonParse] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 16:18:46,051 [Worker-30: Launching ComplexJsonParse] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-04 16:20:53,773 [Worker-31: Launching ComplexJsonParse] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 16:20:53,773 [Worker-31: Launching ComplexJsonParse] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-04 16:20:53,776 [Worker-31: Launching ComplexJsonParse] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 16:20:53,776 [Worker-31: Launching ComplexJsonParse] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-04 16:22:54,465 [Worker-26: Launching ComplexJsonParse] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 16:22:54,465 [Worker-26: Launching ComplexJsonParse] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-04 16:22:54,468 [Worker-26: Launching ComplexJsonParse] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 16:22:54,468 [Worker-26: Launching ComplexJsonParse] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-04 16:23:51,258 [Worker-30: Launching ComplexJsonParse] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 16:23:51,259 [Worker-30: Launching ComplexJsonParse] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-04 16:23:51,260 [Worker-30: Launching ComplexJsonParse] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 16:23:51,261 [Worker-30: Launching ComplexJsonParse] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-04 16:38:47,713 [Worker-34: Launching ComplexJsonParse] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 16:38:47,713 [Worker-34: Launching ComplexJsonParse] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-04 16:38:47,714 [Worker-34: Launching ComplexJsonParse] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 16:38:47,714 [Worker-34: Launching ComplexJsonParse] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-04 16:47:03,582 [Worker-41: Launching ComplexJsonParse] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 16:47:03,582 [Worker-41: Launching ComplexJsonParse] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-04 16:47:03,583 [Worker-41: Launching ComplexJsonParse] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 16:47:03,583 [Worker-41: Launching ComplexJsonParse] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-04 16:55:09,057 [Worker-41: Launching ComplexJsonParse] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 16:55:09,058 [Worker-41: Launching ComplexJsonParse] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-04 16:55:09,060 [Worker-41: Launching ComplexJsonParse] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 16:55:09,061 [Worker-41: Launching ComplexJsonParse] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-04 16:57:52,390 [Worker-28: Launching ComplexJsonParse] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 16:57:52,390 [Worker-28: Launching ComplexJsonParse] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-04 16:57:52,393 [Worker-28: Launching ComplexJsonParse] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 16:57:52,393 [Worker-28: Launching ComplexJsonParse] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-04 17:03:01,084 [Worker-48: Launching SumValidation] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 17:03:01,085 [Worker-48: Launching SumValidation] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-04 17:03:01,086 [Worker-48: Launching SumValidation] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 17:03:01,086 [Worker-48: Launching SumValidation] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-04 17:31:49,301 [Worker-59: Launching DynamicLibraryAPI] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2025-01-04 17:31:49,305 [Worker-59: Launching DynamicLibraryAPI] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 17:31:49,305 [Worker-59: Launching DynamicLibraryAPI] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-04 17:31:49,307 [Worker-59: Launching DynamicLibraryAPI] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 17:31:49,307 [Worker-59: Launching DynamicLibraryAPI] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-04 18:40:43,199 [Worker-57: Launching DynamicLibraryAPI] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2025-01-04 18:40:43,205 [Worker-57: Launching DynamicLibraryAPI] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 18:40:43,205 [Worker-57: Launching DynamicLibraryAPI] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-04 18:40:43,206 [Worker-57: Launching DynamicLibraryAPI] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 18:40:43,207 [Worker-57: Launching DynamicLibraryAPI] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-04 19:01:54,787 [Worker-60: Launching DynamicLibraryAPI] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2025-01-04 19:01:54,790 [Worker-60: Launching DynamicLibraryAPI] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 19:01:54,790 [Worker-60: Launching DynamicLibraryAPI] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-04 19:01:54,791 [Worker-60: Launching DynamicLibraryAPI] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 19:01:54,792 [Worker-60: Launching DynamicLibraryAPI] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-04 19:14:10,089 [Worker-73: Launching DynamicLibraryAPI] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2025-01-04 19:14:10,092 [Worker-73: Launching DynamicLibraryAPI] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 19:14:10,092 [Worker-73: Launching DynamicLibraryAPI] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-04 19:14:10,094 [Worker-73: Launching DynamicLibraryAPI] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 19:14:10,094 [Worker-73: Launching DynamicLibraryAPI] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-04 19:29:52,776 [Worker-71: Launching PassingAPIFiles] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2025-01-04 19:29:52,779 [Worker-71: Launching PassingAPIFiles] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 19:29:52,780 [Worker-71: Launching PassingAPIFiles] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-04 19:29:52,781 [Worker-71: Launching PassingAPIFiles] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 19:29:52,781 [Worker-71: Launching PassingAPIFiles] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-04 19:40:27,635 [Worker-77: Launching PassingAPIFiles] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2025-01-04 19:40:27,638 [Worker-77: Launching PassingAPIFiles] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 19:40:27,638 [Worker-77: Launching PassingAPIFiles] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-04 19:40:27,639 [Worker-77: Launching PassingAPIFiles] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 19:40:27,640 [Worker-77: Launching PassingAPIFiles] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-04 22:40:45,698 [Worker-91: Launching JiraAPI] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2025-01-04 22:40:45,708 [Worker-91: Launching JiraAPI] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 22:40:45,708 [Worker-91: Launching JiraAPI] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-04 22:40:45,716 [Worker-91: Launching JiraAPI] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 22:40:45,719 [Worker-91: Launching JiraAPI] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-04 22:41:42,454 [Worker-94: Launching JiraAPI] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2025-01-04 22:41:42,457 [Worker-94: Launching JiraAPI] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 22:41:42,457 [Worker-94: Launching JiraAPI] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-04 22:41:42,458 [Worker-94: Launching JiraAPI] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 22:41:42,458 [Worker-94: Launching JiraAPI] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-04 22:53:53,365 [Worker-92: Launching JiraAPI] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2025-01-04 22:53:53,369 [Worker-92: Launching JiraAPI] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 22:53:53,369 [Worker-92: Launching JiraAPI] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-04 22:53:53,371 [Worker-92: Launching JiraAPI] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 22:53:53,371 [Worker-92: Launching JiraAPI] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-04 22:54:46,552 [Worker-97: Launching JiraAPI] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2025-01-04 22:54:46,554 [Worker-97: Launching JiraAPI] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 22:54:46,555 [Worker-97: Launching JiraAPI] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-04 22:54:46,556 [Worker-97: Launching JiraAPI] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 22:54:46,556 [Worker-97: Launching JiraAPI] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-04 22:55:32,922 [Worker-92: Launching JiraAPI] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2025-01-04 22:55:32,924 [Worker-92: Launching JiraAPI] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 22:55:32,925 [Worker-92: Launching JiraAPI] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-04 22:55:32,925 [Worker-92: Launching JiraAPI] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 22:55:32,926 [Worker-92: Launching JiraAPI] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-04 22:57:24,275 [Worker-93: Launching JiraAPI] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2025-01-04 22:57:24,278 [Worker-93: Launching JiraAPI] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 22:57:24,278 [Worker-93: Launching JiraAPI] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-04 22:57:24,279 [Worker-93: Launching JiraAPI] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-04 22:57:24,279 [Worker-93: Launching JiraAPI] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-05 11:41:06,923 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-01-05 13:12:57,014 [Worker-29: Launching Oauth2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-05 13:12:57,098 [Worker-29: Launching Oauth2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-05 13:12:57,100 [Worker-29: Launching Oauth2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-05 13:12:57,100 [Worker-29: Launching Oauth2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-05 13:16:39,654 [Worker-30: Launching Oauth2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-05 13:16:39,654 [Worker-30: Launching Oauth2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-05 13:16:39,656 [Worker-30: Launching Oauth2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-05 13:16:39,656 [Worker-30: Launching Oauth2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-05 13:17:03,326 [Worker-22: Launching Oauth2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-05 13:17:03,326 [Worker-22: Launching Oauth2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-05 13:17:03,328 [Worker-22: Launching Oauth2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-05 13:17:03,328 [Worker-22: Launching Oauth2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-05 13:17:28,307 [Worker-29: Launching Oauth2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-05 13:17:28,308 [Worker-29: Launching Oauth2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-05 13:17:28,310 [Worker-29: Launching Oauth2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-05 13:17:28,310 [Worker-29: Launching Oauth2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-05 13:38:30,498 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-01-05 13:38:34,640 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Application:APIAutomation_RestsAssured:0.0.1-SNAPSHOT @ C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\pom.xml.
+2025-01-05 13:38:35,727 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /APIAutomation_RestsAssured/src/main/java
+2025-01-05 13:38:35,728 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /APIAutomation_RestsAssured/src/test/java
+2025-01-05 13:38:36,138 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2025-01-05 13:38:36,884 [Worker-36: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.18.2/jackson-core-2.18.2-sources.jar
+2025-01-05 13:38:37,121 [Worker-36: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.18.2/jackson-core-2.18.2-sources.jar
+2025-01-05 13:38:37,854 [Worker-36: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-core:2.18.2
+2025-01-05 13:38:37,863 [Worker-36: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-core:2.18.2
+2025-01-05 15:35:47,335 [Worker-40: Launching GetCoursesTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-05 15:35:47,337 [Worker-40: Launching GetCoursesTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-05 15:35:47,339 [Worker-40: Launching GetCoursesTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-05 15:35:47,339 [Worker-40: Launching GetCoursesTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-05 15:36:46,478 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-01-05 15:36:46,839 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Application:APIAutomation_RestsAssured:0.0.1-SNAPSHOT @ C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\pom.xml.
+2025-01-05 15:36:47,173 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /APIAutomation_RestsAssured/src/main/java
+2025-01-05 15:36:47,174 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /APIAutomation_RestsAssured/src/test/java
+2025-01-05 15:36:47,422 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2025-01-05 15:37:11,955 [Worker-47: Launching GetCoursesTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-05 15:37:11,956 [Worker-47: Launching GetCoursesTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-05 15:37:11,958 [Worker-47: Launching GetCoursesTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-05 15:37:11,959 [Worker-47: Launching GetCoursesTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-05 15:38:08,856 [Worker-42: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-01-05 15:38:09,055 [Worker-42: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Application:APIAutomation_RestsAssured:0.0.1-SNAPSHOT @ C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\pom.xml.
+2025-01-05 15:38:09,458 [Worker-42: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /APIAutomation_RestsAssured/src/main/java
+2025-01-05 15:38:09,459 [Worker-42: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /APIAutomation_RestsAssured/src/test/java
+2025-01-05 15:38:09,649 [Worker-42: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2025-01-05 15:38:10,431 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.18.2/jackson-databind-2.18.2-sources.jar
+2025-01-05 15:38:10,821 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.18.2/jackson-databind-2.18.2-sources.jar
+2025-01-05 15:38:10,886 [Worker-46: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-databind:2.18.2
+2025-01-05 15:38:10,953 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.18.2/jackson-annotations-2.18.2-sources.jar
+2025-01-05 15:38:11,019 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.18.2/jackson-annotations-2.18.2-sources.jar
+2025-01-05 15:38:11,095 [Worker-46: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-annotations:2.18.2
+2025-01-05 15:38:11,100 [Worker-46: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-databind:2.18.2
+2025-01-05 15:38:11,113 [Worker-46: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-annotations:2.18.2
+2025-01-05 15:38:16,039 [Worker-42: Launching GetCoursesTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-05 15:38:16,040 [Worker-42: Launching GetCoursesTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-05 15:38:16,041 [Worker-42: Launching GetCoursesTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-05 15:38:16,042 [Worker-42: Launching GetCoursesTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-05 15:48:00,868 [Worker-49: Launching GetCoursesTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-05 15:48:00,868 [Worker-49: Launching GetCoursesTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-05 15:48:00,869 [Worker-49: Launching GetCoursesTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-05 15:48:00,869 [Worker-49: Launching GetCoursesTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-05 16:13:37,820 [Worker-49: Launching GetCoursesTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-05 16:13:37,821 [Worker-49: Launching GetCoursesTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-05 16:13:37,822 [Worker-49: Launching GetCoursesTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-05 16:13:37,822 [Worker-49: Launching GetCoursesTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-05 16:14:35,206 [Worker-54: Launching GetCoursesTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-05 16:14:35,206 [Worker-54: Launching GetCoursesTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-05 16:14:35,207 [Worker-54: Launching GetCoursesTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-05 16:14:35,207 [Worker-54: Launching GetCoursesTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-05 16:15:15,229 [Worker-54: Launching GetCoursesTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-05 16:15:15,230 [Worker-54: Launching GetCoursesTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-05 16:15:15,231 [Worker-54: Launching GetCoursesTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-05 16:15:15,231 [Worker-54: Launching GetCoursesTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-05 16:18:02,444 [Worker-56: Launching GetCoursesTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-05 16:18:02,445 [Worker-56: Launching GetCoursesTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-05 16:18:02,446 [Worker-56: Launching GetCoursesTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
