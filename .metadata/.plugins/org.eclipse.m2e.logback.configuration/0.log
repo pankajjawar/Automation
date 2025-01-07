@@ -3616,3 +3616,7 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.po
 2025-01-05 16:18:02,444 [Worker-56: Launching GetCoursesTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2025-01-05 16:18:02,445 [Worker-56: Launching GetCoursesTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
 2025-01-05 16:18:02,446 [Worker-56: Launching GetCoursesTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-05 16:18:02,447 [Worker-56: Launching GetCoursesTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\test\resources
+2025-01-06 21:31:21,555 [Worker-66: Launching SerializationTestClass] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-06 21:31:21,558 [Worker-66: Launching SerializationTestClass] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\APIAutomation_RestsAssured\src\main\resources
+2025-01-06 21:31:21,559 [Worker-66: Launching SerializationTestClass] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.

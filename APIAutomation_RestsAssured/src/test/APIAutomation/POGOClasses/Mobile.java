@@ -1,7 +1,9 @@
 package POGOClasses;
 
-
 public class Mobile {
+	
+	private String courseTitle;
+	private String price;
 	
 	/**
 	 * @return the courseTitle
@@ -27,7 +29,6 @@ public class Mobile {
 	public void setPrice(String price) {
 		this.price = price;
 	}
-	private String courseTitle;
-	private String price;
+
 
 }
