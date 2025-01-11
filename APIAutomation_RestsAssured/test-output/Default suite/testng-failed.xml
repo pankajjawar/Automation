@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="POGOClasses.GetCoursesTest">
+      <class name="Fullflow_Practice.EndtoEndApisAutomation">
         <methods>
-          <include name="GetCoursesDetailsTests"/>
+          <include name="LoginAuthToken"/>
         </methods>
-      </class> <!-- POGOClasses.GetCoursesTest -->
+      </class> <!-- Fullflow_Practice.EndtoEndApisAutomation -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

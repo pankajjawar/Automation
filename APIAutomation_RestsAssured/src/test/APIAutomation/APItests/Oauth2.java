@@ -12,6 +12,8 @@ public class Oauth2 {
 	@Test
 	public void GetAccessToken() {
 		
+		//MultiPart to pass form data
+		
 		RestAssured.baseURI="https://rahulshettyacademy.com/";
 		String access_response = given().log().all().multiPart("client_id", "692183103107-p0m7ent2hk7suguv4vq22hjcfhcr43pj.apps.googleusercontent.com")
 		.multiPart("client_secret", "erZOWM9g3UtwNRj340YYaK_W").multiPart("grant_type", "client_credentials").multiPart("scope","trust")

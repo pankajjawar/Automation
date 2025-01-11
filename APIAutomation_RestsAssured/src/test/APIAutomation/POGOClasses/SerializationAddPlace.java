@@ -4,6 +4,16 @@ import java.util.List;
 
 public class SerializationAddPlace {
 	
+	private Location location;
+	private String accuracy;
+	private String name;
+	private String phone_number;
+	private String address;
+	private List<String> types;
+	private String website;
+	private String language;
+	
+	
 	/**
 	 * @return the location
 	 */
@@ -100,14 +110,6 @@ public class SerializationAddPlace {
 	public void setLanguage(String language) {
 		this.language = language;
 	}
-	private Location location;
-	private String accuracy;
-	private String name;
-	private String phone_number;
-	private String address;
-	private List<String> types;
-	private String website;
-	private String language;
-	
+
 
 }
