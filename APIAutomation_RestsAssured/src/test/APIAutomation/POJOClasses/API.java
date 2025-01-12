@@ -1,6 +1,7 @@
-package POGOClasses;
+package POJOClasses;
 
-public class Mobile {
+
+public class API {
 	
 	private String courseTitle;
 	private String price;

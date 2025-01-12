@@ -1,7 +1,6 @@
-package POGOClasses;
+package POJOClasses;
 
-
-public class WebAutomation {
+public class Mobile {
 	
 	private String courseTitle;
 	private String price;

@@ -1,4 +1,4 @@
-package POGOClasses;
+package POJOClasses;
 
 import static io.restassured.RestAssured.given;
 

@@ -1,4 +1,4 @@
-package POGOClasses;
+package POJOClasses;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,7 +1,7 @@
-package POGOClasses;
+package POJOClasses;
 
 
-public class API {
+public class WebAutomation {
 	
 	private String courseTitle;
 	private String price;
