@@ -1,0 +1,47 @@
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": 3.1233,
+        "lng": 23.1121
+    },
+    "accuracy": "50",
+    "name": "Pankaj Jhawar",
+    "phone_number": null,
+    "address": "Hyderabad",
+    "types": [
+        "Hello",
+        "Bye"
+    ],
+    "website": "World.com",
+    "language": "English"
+}
+HTTP/1.1 200 OK
+Date: Sun, 12 Jan 2025 10:42:11 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "ea1efadf4b227391a5157da6f9e35f45",
+    "scope": "APP",
+    "reference": "06e22edc8c6bcb063ded1c4956695e5e06e22edc8c6bcb063ded1c4956695e5e",
+    "id": "06e22edc8c6bcb063ded1c4956695e5e"
+}
