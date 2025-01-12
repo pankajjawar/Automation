@@ -25,6 +25,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="Application.Cucumber_Framework"/>
 			<item value="Application"/>
 			<item value="ThirdPresence.Nina"/>
 		</list>
@@ -33,6 +34,7 @@
 			<item value="ThirdPresence"/>
 		</list>
 		<list key="artifactId">
+			<item value="Cucumber_Framework"/>
 			<item value="SeleniumFramework"/>
 			<item value="Nina"/>
 		</list>
