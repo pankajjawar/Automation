@@ -2,19 +2,18 @@ package Resources;
 
 import java.util.ArrayList;
 import java.util.List;
-
 import Pojoclases.Location;
 import Pojoclases.SerializationAddPlace;
 
 public class TestData {
 	
-	public Object addPlaceData() {
+	public Object addPlaceData(String name, String language, String address ) {
 		
 		SerializationAddPlace S = new SerializationAddPlace();
 		S.setAccuracy("50");
-		S.setAddress("Hyderabad");
-		S.setLanguage("English");
-		S.setName("Pankaj Jhawar");
+		S.setAddress(address);
+		S.setLanguage(language);
+		S.setName(name);
 		S.setWebsite("World.com");
 		List<String> L = new ArrayList<String>();
 		L.add("Hello");
