@@ -16,18 +16,18 @@ Body:
         "lng": 23.1121
     },
     "accuracy": "50",
-    "name": "Deepka",
+    "name": "Pankaj",
     "phone_number": null,
-    "address": "Singapore",
+    "address": "English",
     "types": [
         "Hello",
         "Bye"
     ],
     "website": "World.com",
-    "language": "Hindi"
+    "language": "English"
 }
 HTTP/1.1 200 OK
-Date: Sun, 19 Jan 2025 09:53:23 GMT
+Date: Sun, 19 Jan 2025 10:13:43 GMT
 Server: Apache/2.4.52 (Ubuntu)
 Access-Control-Allow-Origin: *
 Access-Control-Allow-Methods: POST
@@ -40,17 +40,17 @@ Content-Type: application/json;charset=UTF-8
 
 {
     "status": "OK",
-    "place_id": "909162b866c96e7fa51925bd136adfde",
+    "place_id": "66b757310f50cd16fb571a5616fe3712",
     "scope": "APP",
-    "reference": "65fcd5a6c3038a4b2668826f21a9e35e65fcd5a6c3038a4b2668826f21a9e35e",
-    "id": "65fcd5a6c3038a4b2668826f21a9e35e"
+    "reference": "b0c94dd9715f24f8354be22afc7073c9b0c94dd9715f24f8354be22afc7073c9",
+    "id": "b0c94dd9715f24f8354be22afc7073c9"
 }
 Request method:	GET
-Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=909162b866c96e7fa51925bd136adfde
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=66b757310f50cd16fb571a5616fe3712
 Proxy:			<none>
 Request params:	<none>
 Query params:	key=qaclick123
-				place_id=909162b866c96e7fa51925bd136adfde
+				place_id=66b757310f50cd16fb571a5616fe3712
 Form params:	<none>
 Path params:	<none>
 Headers:		Accept=*/*
@@ -59,7 +59,7 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
 HTTP/1.1 200 OK
-Date: Sun, 19 Jan 2025 09:53:24 GMT
+Date: Sun, 19 Jan 2025 10:13:44 GMT
 Server: Apache/2.4.52 (Ubuntu)
 Access-Control-Allow-Origin: *
 Access-Control-Allow-Methods: POST
@@ -76,12 +76,12 @@ Content-Type: application/json;charset=UTF-8
         "longitude": "23.1121"
     },
     "accuracy": "50",
-    "name": "Deepka",
+    "name": "Pankaj",
     "phone_number": "",
-    "address": "Singapore",
+    "address": "English",
     "types": "Hello,Bye",
     "website": "World.com",
-    "language": "Hindi"
+    "language": "English"
 }
 Request method:	POST
 Request URI:	https://rahulshettyacademy.com/maps/api/place/delete/json?key=qaclick123
@@ -96,10 +96,10 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:
 {
-    "place_id": "909162b866c96e7fa51925bd136adfde"
+    "place_id": "66b757310f50cd16fb571a5616fe3712"
 }
 HTTP/1.1 200 OK
-Date: Sun, 19 Jan 2025 09:53:25 GMT
+Date: Sun, 19 Jan 2025 10:13:45 GMT
 Server: Apache/2.4.52 (Ubuntu)
 Access-Control-Allow-Origin: *
 Access-Control-Allow-Methods: POST
