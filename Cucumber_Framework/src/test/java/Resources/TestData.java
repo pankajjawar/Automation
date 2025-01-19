@@ -25,5 +25,13 @@ public class TestData {
 		S.setLocation(loc);
 		return S;
 	}
+	
+	public String deletePlaceData(String place_id) {
+		return "{\r\n"
+				+ "\r\n"
+				+ "    \"place_id\":\""+place_id+"\"\r\n"
+				+ "}\r\n"
+				+ "";
+	}
 
 }
